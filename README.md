@@ -1,7 +1,12 @@
 # Dapur Senja — Warung Rush
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/kitulaja7/cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/kitulaja7/cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 A cooking game for make.fun's **best-cooking-game-20261125-0137**: one cook,
-one warung at dusk, one 180-second dinner rush.
+one warung at dusk, one 180-second dinner rush. See the bounty:
+https://make.fun/bounty/best-cooking-game-20261125-0137
 
 ## How to play
 
